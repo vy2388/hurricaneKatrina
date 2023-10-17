@@ -127,6 +127,9 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+/env_Katrina
+/env_katrina_mac
+/n_katrina_mac
 
 # Spyder project settings
 .spyderproject
